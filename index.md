@@ -1,4 +1,4 @@
-#IE 360 Progresa Journal
+#IE 360 Progress Journal
 
 Our group members are :
 
